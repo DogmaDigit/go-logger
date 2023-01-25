@@ -6,7 +6,7 @@ Ps. Использует пакет `github.com/pkg/errors`
 
 ## Установка
 
-`go get gitlab.tap2v.com/dogma/utils/go-logger`
+`go get github.com/DogmaDigit/go-logger`
 
 ## Настройка
 
@@ -33,7 +33,7 @@ package app
 import (
 	"errors"
 
-	"gitlab.tap2v.com/dogma/utils/go-logger"
+	"github.com/DogmaDigit/go-logger"
 )
 
 func main() {
